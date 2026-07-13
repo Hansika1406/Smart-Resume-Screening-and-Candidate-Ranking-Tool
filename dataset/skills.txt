@@ -1,0 +1,143 @@
+Python
+Java
+C
+C++
+C#
+JavaScript
+TypeScript
+HTML
+CSS
+Bootstrap
+Tailwind CSS
+React
+Angular
+Vue.js
+Next.js
+Node.js
+Express.js
+Flask
+FastAPI
+Django
+Spring Boot
+ASP.NET
+PHP
+Laravel
+Ruby
+Ruby on Rails
+Go
+Rust
+Kotlin
+Swift
+
+SQL
+MySQL
+PostgreSQL
+SQLite
+Oracle
+MongoDB
+Redis
+Firebase
+
+Git
+GitHub
+GitLab
+Bitbucket
+
+Linux
+Windows
+Docker
+Kubernetes
+AWS
+Azure
+Google Cloud Platform
+CI/CD
+
+Machine Learning
+Deep Learning
+Artificial Intelligence
+Natural Language Processing
+Computer Vision
+Data Science
+Data Analysis
+Data Mining
+Predictive Analytics
+
+TensorFlow
+Keras
+PyTorch
+Scikit-learn
+OpenCV
+Pandas
+NumPy
+Matplotlib
+Seaborn
+SciPy
+
+RAG
+FAISS
+LangChain
+Transformers
+Hugging Face
+LLM
+Prompt Engineering
+Generative AI
+
+REST API
+GraphQL
+JSON
+XML
+
+Power BI
+Tableau
+Excel
+
+OOP
+DBMS
+Operating Systems
+Computer Networks
+Compiler Design
+Cloud Computing
+Data Structures
+Algorithms
+Object Oriented Programming
+
+VS Code
+Jupyter Notebook
+Anaconda
+Postman
+
+Figma
+Canva
+
+Selenium
+PyTest
+JUnit
+
+Microservices
+Socket Programming
+Multithreading
+Networking
+Cyber Security
+Ethical Hacking
+Blockchain
+IoT
+
+Arduino
+Raspberry Pi
+
+MATLAB
+SPSS
+
+Unity
+Unreal Engine
+Android Studio
+
+Firebase Authentication
+JWT
+OAuth
+
+NumPy
+Pandas
+TensorFlow
+PyTorch
+Scikit-learn

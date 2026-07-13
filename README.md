@@ -1,0 +1,2 @@
+# Smart Resume Screening and Candidate Ranking Tool
+A Flask-based web application that automatically screens resumes, evaluates candidate profiles, generates resume scores, provides improvement suggestions, and ranks multiple candidates based on overall resume quality.
